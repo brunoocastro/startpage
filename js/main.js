@@ -80,7 +80,7 @@ function buildMsg() {
     currentTime = currentHour + (0.01 * currentMinute)
 
     if (inRange(currentTime, 0, 5.59))
-        return "It's too late, take some sleep"
+        return "It's too late, take some sleep (or play something to relax)"
     if (inRange(currentTime, 6, 8.59))
         return "You're up early"
     if (inRange(currentTime, 9, 11.59))

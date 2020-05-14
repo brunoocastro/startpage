@@ -4,7 +4,7 @@
   "short_name": "minimal-startpage",
   "version": "1.0",
   "description": "Overrides the browsers newtab page with a custom startpage.",
-  "author": "deepjyoti30",
+  "author": "deepjyoti30 (Modified by brunoocastro)",
 
   "icons": {
     "64": "img/icon64.png"

@@ -1,35 +1,48 @@
 {
   "squares": [
     { "name": "media", "links": [
-        { "name": "Spotify", "url": "https://open.spotify.com/" },
-        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" },
+        { "name": "Youtube", "url": "https://youtube.com" },
         { "name": "Netflix", "url": "https://netflix.com" },
-        { "name": "Youtube", "url": "https://youtube.com" }
+        { "name": "Prime Video", "url": "https://primevideo.com" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/" },
+        { "name": "Spotify", "url": "https://open.spotify.com" },
+        { "name": "YoutubeMusic", "url": "https://music.youtube.com" },
+        { "name": " ", "url": "" }
       ]
     },
     { "name": "work", "links": [
         { "name": "Github", "url": "https://github.com" },
-        { "name": "Heroku", "url": "http://heroku.com/" },
-        { "name": "localhost", "url": "http://localhost:8000/" }
+        { "name": "Colab", "url": "https://colab.research.google.com" },
+        { "name": "Trello", "url": "https://trello.com" },
+        { "name": "Drive", "url": "https://drive.google.com" },
+        { "name": "localhost", "url": "http://localhost:8000" },
+        { "name": "", "url": "" },
+        { "name": "", "url": "" }
       ]
     },
     { "name": "social", "links": [
+        { "name": "WhatsApp", "url": "https://web.whatsapp.com" },
+        { "name": "Twitter", "url": "https://twitter.com" },
+        { "name": "Instagram", "url": "https://www.instagram.com" },
+        { "name": "Facebook", "url": "https://www.facebook.com" },
         { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "Unixporn Love", "url": "https://deepjyoti30.github.io/unixporn-love/" },
-        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
-        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" }
+        { "name": "LinkedIn", "url": "https://www.linkedin.com" },
+        { "name": "", "url": "" }
       ]
     },
     {
-      "name": "Others", "links": [
-        {"name": "Material Colors", "url": "http://materialuicolors.co/"},
-        {"name": "Gmail", "url": "http://gmail.com/"},
-        {"name": "neo4j Local", "url": "http://localhost:7474/"},
-        {"name": "rarbg", "url": "http://rarbg.to"}
+      "name": "utils", "links": [
+        { "name": "Pomodoro", "url": "http://www.tomatotimers.com"},
+        { "name": "Defonic", "url": "https://defonic.com"},
+        { "name": "CifraClub", "url": "https://www.cifraclub.com.br/" },
+        { "name": "Gmail", "url": "http://gmail.com"},
+        { "name": "Outlook", "url": "http://outlook.com"},
+        { "name": "Moodle", "url": "https://ead06.proj.ufsm.br"},
+        { "name": "Portal", "url": "https://portal.ufsm.br/aluno/index.html"}
       ]
     }
   ],
-  "user": "Deepjyoti",
+  "user": "BrunooCastro",
   "disableMessage": false,
   "disableDate": false,
   "disableSearchBar": false

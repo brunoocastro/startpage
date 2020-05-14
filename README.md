@@ -1,16 +1,29 @@
 # Minimal Startpage
 
-Just another minimal startpage for browsers.
+An minimal startpage for browsers.
+
+Desenvolved by deepjyoti30
+Modified by me, brunoocastro
 
 <img src=".github/startpage.gif">
+
+*OBS: Thats now adapted for UFSM users*
 
 ## How to Use
 
 - Clone the repo
+  
+    -- [Repository modified by BrunooCastro (adapted for UFSM users)]((https://github.com/brunoocastro/startpage)):
 
-    ```console
-    git clone https://github.com/deepjyoti30/startpage
-    ```
+        ```console
+        git clone https://github.com/brunoocastro/startpage
+        ```
+
+    -- [Original repository]((https://github.com/deepjyoti30/startpage)):
+
+        ```console
+        git clone https://github.com/deepjyoti30/startpage
+        ```
 
     Alternately, you can download and extract from the browser.
 
