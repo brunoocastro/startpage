@@ -16,15 +16,12 @@ Modified by me, brunoocastro
   
     [Repository modified by BrunooCastro (adapted for UFSM users)]((https://github.com/brunoocastro/startpage))
 
-        ```console
         git clone https://github.com/brunoocastro/startpage
-        ```
 
     [Original repository]((https://github.com/deepjyoti30/startpage))
 
-        ```console
         git clone https://github.com/deepjyoti30/startpage
-        ```
+        
 
     Alternately, you can download and extract from the browser.
 
