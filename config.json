@@ -6,8 +6,7 @@
         { "name": "Prime Video", "url": "https://primevideo.com" },
         { "name": "Twitch", "url": "https://www.twitch.tv/" },
         { "name": "Spotify", "url": "https://open.spotify.com" },
-        { "name": "YoutubeMusic", "url": "https://music.youtube.com" },
-        { "name": " ", "url": "" }
+        { "name": "YoutubeMusic", "url": "https://music.youtube.com" }
       ]
     },
     { "name": "work", "links": [
@@ -16,8 +15,7 @@
         { "name": "Trello", "url": "https://trello.com" },
         { "name": "Drive", "url": "https://drive.google.com" },
         { "name": "localhost", "url": "http://localhost:8000" },
-        { "name": "", "url": "" },
-        { "name": "", "url": "" }
+        { "name": "Overleaf", "url": "https://www.overleaf.com" }
       ]
     },
     { "name": "social", "links": [
@@ -26,15 +24,13 @@
         { "name": "Instagram", "url": "https://www.instagram.com" },
         { "name": "Facebook", "url": "https://www.facebook.com" },
         { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "LinkedIn", "url": "https://www.linkedin.com" },
-        { "name": "", "url": "" }
+        { "name": "LinkedIn", "url": "https://www.linkedin.com" }
       ]
     },
     {
       "name": "utils", "links": [
         { "name": "Pomodoro", "url": "http://www.tomatotimers.com"},
         { "name": "Defonic", "url": "https://defonic.com"},
-        { "name": "CifraClub", "url": "https://www.cifraclub.com.br/" },
         { "name": "Gmail", "url": "http://gmail.com"},
         { "name": "Outlook", "url": "http://outlook.com"},
         { "name": "Moodle", "url": "https://ead06.proj.ufsm.br"},
