@@ -10,11 +10,11 @@
       ]
     },
     { "name": "work", "links": [
+        { "name": "localhost", "url": "http://localhost:3000" },
+        { "name": "XD Design", "url": "https://xd.adobe.com/view/ce6f9153-55b7-4386-a897-64df93ad6d8a-9b3c/grid" },
         { "name": "Github", "url": "https://github.com" },
-        { "name": "Colab", "url": "https://colab.research.google.com" },
         { "name": "Trello", "url": "https://trello.com" },
         { "name": "Drive", "url": "https://drive.google.com" },
-        { "name": "localhost", "url": "http://localhost:8000" },
         { "name": "Overleaf", "url": "https://www.overleaf.com" }
       ]
     },
