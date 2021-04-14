@@ -11,9 +11,9 @@
     },
     { "name": "work", "links": [
         { "name": "localhost", "url": "http://localhost:3000" },
-        { "name": "XD Design", "url": "" },
-        { "name": "Github", "url": "https://github.com" },
-        { "name": "Trello", "url": "https://trello.com" },
+        { "name": "XD Design", "url": "https://xd.adobe.com/" },
+        { "name": "Github", "url": "https://github.com/brunoocastro" },
+        { "name": "Trello", "url": "https://trello.com/brunoocastro/boards" },
         { "name": "Drive", "url": "https://drive.google.com" },
         { "name": "Overleaf", "url": "https://www.overleaf.com" }
       ]
@@ -38,7 +38,7 @@
       ]
     }
   ],
-  "user": "BrunooCastro",
+  "user": "Tonelive",
   "disableMessage": false,
   "disableDate": false,
   "disableSearchBar": false
